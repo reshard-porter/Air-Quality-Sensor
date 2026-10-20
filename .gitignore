@@ -1,0 +1,13 @@
+# Compiled classes
+*.class
+
+# BlueJ project files
+*.ctxt
+package.bluej
+bluej.pkg
+bluej.pkh
+
+# Exported data and OS clutter
+air_quality_*.csv
+.DS_Store
+Thumbs.db
